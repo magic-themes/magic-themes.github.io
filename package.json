@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@magic-modules/gitbadges": "github:magic-modules/gitbadges",
-    "@magic-modules/theme-list": "github:magic-modules/module-list",
+    "@magic-modules/theme-list": "github:magic-modules/theme-list",
     "@magic-themes/docs": "github:magic-themes/docs",
     "@magic/core": "github:magic/core",
     "@magic/test": "0.0.12"
