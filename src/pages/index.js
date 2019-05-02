@@ -10,7 +10,7 @@ module.exports = () => [
   }),
 
   h2({ id: 'magic-themes' }, Link({ to: 'https://github.com/magic-themes' }, '@magic-themes')),
-  p('javascript css-in-js objects read for usage in the @magic app.'),
+  p('javascript css-in-js objects ready for usage in the @magic app.'),
 
   ThemeList,
 ]
