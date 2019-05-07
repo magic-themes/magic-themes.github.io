@@ -4,10 +4,7 @@ module.exports = () => [
   p(
     'goal of the project is to keep the client boilerplate footprint minimal yet easily extendable',
   ),
-  GitBadges({
-    project: 'magic/core',
-    appveyor: 'jaeh/core',
-  }),
+  GitBadges('magic/core'),
 
   h2({ id: 'magic-themes' }, Link({ to: 'https://github.com/magic-themes' }, '@magic-themes')),
   p('javascript css-in-js objects ready for usage in the @magic app.'),
