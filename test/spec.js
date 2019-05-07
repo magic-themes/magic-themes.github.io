@@ -1,6 +1,4 @@
 const { is } = require('@magic/test')
 const app = require('../src/app.js')
 
-module.exports = [
-  { fn: () => app, expect: is.object },
-]
+module.exports = [{ fn: () => app, expect: is.object }]
