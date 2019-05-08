@@ -4,6 +4,6 @@ module.exports = {
     description: '@magic-themes. javascript css-in-js objects ready for usage in the @magic app.',
     logotext: '@magic-themes',
     logo: '/logo.png',
-    menu: [{ to: '/#magic-themes', text: 'magic-themes' }],
+    menu: [{ to: '/#gl-magic-themes', text: 'magic-themes' }],
   },
 }
