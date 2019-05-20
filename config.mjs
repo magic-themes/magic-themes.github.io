@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   ROOT: 'src',
   GIT: {
     ORIGIN: 'origin',
