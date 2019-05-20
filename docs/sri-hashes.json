@@ -1,13 +1,13 @@
 {
   "css": "sha384-oNLLwlD4P5Jmna/fDzeZDWSvLRIlYF7Js9RVBEcI6+VUfw4WbCqmfQR7kG3u5fyP",
-  "js": "sha384-DYFpBtW6Cvehy0N9N6xH2GBmQY/EQC/dPV2Pz5p+q/xaogwtg7lfOTRZBsc1zLid",
+  "js": "sha384-RalO8W3ctIG0ZiPcnWe/FPH3XN5j/nwSCi8ywoovOgDyg1LGJRj6gAskU+wAhSFF",
   "pages": {
-    "/magic-themes.github.io/": "sha384-TT0ycjSxhQiAvacbbKyusrTcA5+THFmVAiEXqJMmnOpwtTq/P36hGpvrwV42IvAx",
-    "/magic-themes.github.io/404/": "sha384-PbSW0j1B3q2ikXAhB+1A3Ig2rip56ZeYOY9n+MDaXdrpe6BVAhf+BdIo/5NlH26x"
+    "/magic-themes.github.io/": "sha384-Qa3mcWp4gr4Sy0OmytXIRKsbrRdzOmc4TEiSYfraFda8Xcc3AJUe/mDCtK7Wh49Z",
+    "/magic-themes.github.io/404/": "sha384-uwLUThoRRrCVLQyqLceF788KZx8KSVsAbaA11uUBnydBA9HisQ2SrKtuNw1E9QsJ"
   },
   "static": {
     "/favicon.ico": "sha384-pf51ay6pZCj3+XlVCPmCKLDFpLj7QP+2heR+/n08WgS7Bve7JMkgubHOkwLzaTr+",
-    "/logo.png": "sha384-HYxw554gYy4PTVFMSplAr7DfrbBMkH8h2gaIQKzxzdaf/dQGht3P6kvTo7Iy1xaj",
+    "/logo.png": "sha384-us4OhGfbKl2FeBcaKUVfI2t1a2ZtgQHeYBKlcGxVIRcJAvQNwEf4l4mQVXxO1N79",
     "/robots.txt": "sha384-pYPC0RQZ+uOoU4TRvQAMFPNQfh31v4Nh2V57WEBuZltf+rSM1qpFaFTvcoUPsysM",
     "/sitemap.xml": "sha384-2hK+3Of8jzXSmaXcZeJ3bNqIRvYy4kiyqQTI2rZB2NZd2BadkcM/a9IgTYb2SRPZ"
   }
