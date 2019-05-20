@@ -1,8 +1,14 @@
 {
   "name": "magic-themes.github.io",
   "version": "0.23.5",
-  "main": "index.js",
   "private": true,
+  "author": "Wizards & Witches",
+  "description": "@magic-themes github page.",
+  "license": "AGPL-3.0",
+  "homepage": "https://magic-themes.github.io",
+  "engines": {
+    "node": ">=12.2.0"
+  },
   "scripts": {
     "start": "t -p",
     "build": "NODE_ENV=production magic build",
@@ -21,10 +27,8 @@
     "@magic-modules/theme-list": "github:magic-modules/theme-list",
     "@magic-themes/docs": "github:magic-themes/docs",
     "@magic/core": "github:magic/core",
-    "@magic/test": "0.0.12"
+    "@magic/test": "0.1.6"
   },
-  "author": "Wizards & Witches",
-  "description": "@magic-themes github page.",
   "keywords": [
     "magic",
     "static",
@@ -32,11 +36,34 @@
     "page",
     "generator"
   ],
-  "license": "AGPL-3.0",
   "contributors": [
     {
       "name": "jascha ehrenreich",
       "github": "jaeh"
+    },
+    {
+      "name": "philipp tiefenbacher",
+      "github": "wizard23"
+    },
+    {
+      "name": "phileas lebada",
+      "github": "norpol"
+    },
+    {
+      "name": "litto",
+      "github": "mslitto"
+    },
+    {
+      "name": "daniel safar",
+      "github": "n1c3"
+    },
+    {
+      "name": "jay vaughan",
+      "github": "seclorum"
+    },
+    {
+      "name": "alexander weiss",
+      "github": "ylem235"
     }
   ]
 }
