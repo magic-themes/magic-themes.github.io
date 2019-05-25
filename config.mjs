@@ -6,4 +6,7 @@ export default {
   },
   PUBLIC: 'docs',
   THEME: 'docs',
+
+  URL: 'magic-themes.github.io',
+  WEB_ROOT: '/',
 }
