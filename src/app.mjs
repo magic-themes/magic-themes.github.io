@@ -4,9 +4,7 @@ export const state = {
 
   branding: ['@magic', '-themes'],
 
-  menu: [
-    { to: '/#gl-magic-themes', text: 'themes' },
-  ],
+  menu: [{ to: '/#gl-magic-themes', text: 'themes' }],
 
   hero: {
     title: 'themes',
