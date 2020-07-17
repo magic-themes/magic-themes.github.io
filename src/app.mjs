@@ -6,6 +6,21 @@ export const state = {
 
   menu: [{ to: '/#gl-magic-themes', text: 'themes' }],
 
+  seo: {
+    name: '@magic-themes',
+    url: `https://magic-themes.github.io/`,
+    about:
+      'magic is a jamstack generator. @magic-themes are packages extending the magical look and feel.',
+    image: `https://magic-themes.github.io/magic-themes-preview.jpg`,
+    author: {
+      '@type': 'person',
+      name: 'Jascha Ehrenreich',
+      jobTitle: 'Technomancer',
+      image: 'https:/jaeh.at/img/jascha.ehrenreich.jpg',
+      url: 'https://jaeh.at',
+    },
+  },
+
   hero: {
     title: 'themes',
     description: 'styles for your @magic app.',
