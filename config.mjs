@@ -9,7 +9,7 @@ export default {
 
   URL: 'magic-themes.github.io',
   WEB_ROOT: '/',
-  HOIST: 'Gdpr',
+  HOIST: ['LightSwitch', 'NoSpy'],
 
   IGNORED_STATIC: 'xcf',
 }
