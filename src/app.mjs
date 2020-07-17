@@ -9,6 +9,12 @@ export const state = {
   hero: {
     title: 'themes',
     description: 'styles for your @magic app.',
+    menu: [
+      { to: '/#gl-magic-themes-li-docs', text: 'docs' },
+      { to: '/#gl-magic-themes-li-example', text: 'example' },
+      { to: '/#gl-magic-themes-li-project', text: 'project' },
+      { to: '/#gl-magic-themes-li-reader', text: 'reader' },
+    ],
   },
 
   footer: {
