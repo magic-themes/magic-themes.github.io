@@ -10,4 +10,6 @@ export default {
   URL: 'magic-themes.github.io',
   WEB_ROOT: '/',
   HOIST: 'Gdpr',
+
+  IGNORED_STATIC: 'xcf',
 }
