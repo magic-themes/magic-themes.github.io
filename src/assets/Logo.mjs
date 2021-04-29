@@ -1,4 +1,4 @@
-export const View = ({ root }) =>
+export const View = (root = '/') =>
   Link({ to: root, class: 'Logo' }, [
     svg({ xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 512 444' }, [
       path({ d: 'M512 444L256 0 0 444z', fill: '#663695' }),
