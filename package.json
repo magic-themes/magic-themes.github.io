@@ -30,11 +30,11 @@
     "@magic-modules/no-spy": "0.0.6",
     "@magic-modules/theme-list": "0.0.14",
     "@magic-themes/project": "0.0.25",
-    "@magic/core": "0.0.121"
+    "@magic/core": "0.0.125"
   },
   "devDependencies": {
-    "@magic/format": "0.0.23",
-    "@magic/test": "0.1.68"
+    "@magic/format": "0.0.24",
+    "@magic/test": "0.1.70"
   },
   "keywords": [
     "magic",
